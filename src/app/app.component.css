@@ -3,13 +3,26 @@
 }
 .left{
     float: left;
+    margin-left: 100px;
 
+}
+
+.left img{
+    width: 200px;
+    height: 100;
 }
 .right{
     float: right;
+    margin-right: 100px;
 
+}
+
+.right img{
+    width: 200px;
+    height: 100;
 }
 .center{
 
    display:inline-block
 }
+
